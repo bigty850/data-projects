@@ -3,7 +3,7 @@ Portfolio of completed projects I worked on while attending the PROGRAM NAME Tri
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [status report](https://github.com/bigty850/data-projects/tree/main/status%20report) | DESCRIPTION HERE. |
+| 0 | [status report](https://github.com/bigty850/data-projects/tree/main/status%20report) | In  this report i was trying to show different ways to get more subcribers. |
 | 1 | [Spreadsheet Analysis](https://github.com/bigty850/data-projects/tree/main/spreadsheet%20analysis%20) | DESCRIPTION HERE. |
 | 2 | [SQL Query's](https://github.com/bigty850/data-projects/tree/main/SQL%20Query's) | DESCRIPTION HERE. |
 | 3 | [Business Analytics](https://github.com/bigty850/data-projects/tree/main/Business%20Analytics) | DESCRIPTION HERE. |
